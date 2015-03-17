@@ -18,7 +18,10 @@
 		"Microsoft.Framework.CodeGenerators.Mvc": "1.0.0-beta3",
 		"Microsoft.Framework.Logging": "1.0.0-beta3",
 		"Microsoft.Framework.Logging.Console": "1.0.0-beta3",
-		"Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0-beta3"
+		"Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0-beta3",
+		"Microsoft.AspNet.Hosting": "1.0.0-beta3",
+		"Kestrel": "1.0.0-beta3",
+		 "Microsoft.AspNet.Server.WebListener": "1.0.0-beta3"
 	},
 	"commands": {
 		/* Change the port number when you are self hosting this application */
