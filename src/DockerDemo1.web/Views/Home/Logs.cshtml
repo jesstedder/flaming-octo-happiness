@@ -1,0 +1,21 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IList<DockerDemo1.web.Models.NotificationLogs>
+@{
+// ViewBag.Title = "Home Page";
+}
+
+<table>
+	<tbody>
+		@foreach (var l in Model)
+		{
+			<tr>
+				<td>@l.NotificationLogId</td>
+				<td>@l.NotificationInstanceId</td>
+				<td>@l.PhoneNumberId</td>
+				<td>@l.CallTime</td>
+			</tr>
+		}
+	</tbody>
+</table>
