@@ -4,7 +4,7 @@
 			"ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-DockerDemo1.web-8015066e-321e-47b9-a8e4-9e4344d518a1;Trusted_Connection=True;MultipleActiveResultSets=true"
 		},
 		"CloudDb1Connection": {
-			"ConnectionString": "Server=tcp:eqwkggron0.database.windows.net,1433;Database=clouddb1;User ID=clouddb1user@eqwkggron0;Password=f326a82c-cc31-4b7f-99fa-0e8dbf2da60e;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;"
+			"ConnectionString": "Server=tcp:eqwkggron0.database.windows.net,1433;Database=clouddb1;User ID=clouddb1user@eqwkggron0;Password=f326a82c-cc31-4b7f-99fa-0e8dbf2da60e;Trusted_Connection=False;Connection Timeout=30;"
 		}
 
 	},
